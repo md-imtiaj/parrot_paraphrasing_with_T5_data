@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ZbCmed8oXby4ImfRNAjYedG_XSPr9XAd
 """
 
-! pip install git+https://github.com/PrithivirajDamodaran/Parrot.git
+#! pip install git+https://github.com/PrithivirajDamodaran/Parrot.git
 
 from parrot import Parrot
 import torch
